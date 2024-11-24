@@ -1,6 +1,6 @@
 # Research Paper Explorer By Atharv Hatwar
-Discover academic papers from around the world
-A modern React application built with TypeScript, Vite, and Tailwind CSS.
+Discover academic papers from around the world with
+a modern React application built with TypeScript, Vite, and Tailwind CSS.
 
 ## Features
 
