@@ -1,5 +1,5 @@
-# React TypeScript Project
-
+# Research Paper Explorer By Atharv Hatwar
+Discover academic papers from around the world
 A modern React application built with TypeScript, Vite, and Tailwind CSS.
 
 ## Features
